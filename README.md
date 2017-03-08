@@ -46,4 +46,4 @@ rspec
 * Jquery
 
 ## Project Team
-[Eric](https://github.com/cews7), [David](https://github.com/DavidKnott), [Nick](https://github.com/njgheorghita)
+[Eric](https://github.com/cews7), [David](https://github.com/DavidKnott), [Ethan](https://github.com/ethanbennett), [Laszlo](https://github.com/Laszlo-JFLMTCO)
